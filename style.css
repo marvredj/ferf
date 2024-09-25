@@ -1,0 +1,19 @@
+body{
+	background-color: blue;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.i{
+	text-align: left;
+	color: green;
+}
+.s{
+	text-align: right;
+	color: orange;
+}
+.h{
+	text-align: left;
+	color: lime;
+}
